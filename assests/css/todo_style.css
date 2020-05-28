@@ -1,5 +1,14 @@
 #container{
-    background: grey;
+    border:2px solid grey;
     width:360px;
     margin: 0 auto;
+}
+
+li:hover{
+    cursor:pointer;
+}
+
+.completed{
+    color: gray;
+    text-decoration: line-through;
 }
