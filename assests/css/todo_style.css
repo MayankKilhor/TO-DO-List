@@ -21,7 +21,7 @@ body{
 li{
     background: #fff;
     height:40px;
-    text-align: center;
+    line-height: 40px;
 }
 
 li:nth-child(2n){
