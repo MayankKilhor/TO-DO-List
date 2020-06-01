@@ -18,6 +18,10 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+li{
+    background: #fff;
+}
+
 li:nth-child(2n){
     background: #f7f7f7;
 }
