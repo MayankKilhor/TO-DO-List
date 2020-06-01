@@ -36,6 +36,10 @@ input{
     box-sizing: border-box;
 }
 
+input:focus{
+    background-color: #fff;
+}
+
 h1{
     background: #2980b9;
     color: white;
