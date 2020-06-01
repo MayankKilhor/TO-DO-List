@@ -20,6 +20,7 @@ body{
 
 li{
     background: #fff;
+    height:40px;
 }
 
 li:nth-child(2n){
