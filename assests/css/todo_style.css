@@ -31,6 +31,8 @@ li:nth-child(2n){
 input{
     font-size: 18px;
     background-color: #f7f7f7;
+    padding: 
+    box-sizing: border-box;
 }
 
 h1{
