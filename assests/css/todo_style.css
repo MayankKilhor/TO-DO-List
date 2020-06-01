@@ -18,6 +18,10 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+li:nth-child(2n){
+    background: #f7f7f7;
+}
+
 h1{
     background: #2980b9;
     color: white;
