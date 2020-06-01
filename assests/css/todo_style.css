@@ -13,6 +13,11 @@ li:hover{
     color: gray;
     text-decoration: line-through;
 }
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
 h1{
     background: #2980b9;
     color: white;
@@ -21,7 +26,7 @@ h1{
     text-transform: uppercase;
     font-size: 24px;
     font-weight: normal;
-    font-family: 'Roboto', sans-serif;
+   
 }
 ul{
     list-style: none;
