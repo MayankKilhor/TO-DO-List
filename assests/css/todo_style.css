@@ -28,6 +28,11 @@ li:nth-child(2n){
     background: #f7f7f7;
 }
 
+input{
+    font-size: 18px;
+  
+}
+
 h1{
     background: #2980b9;
     color: white;
