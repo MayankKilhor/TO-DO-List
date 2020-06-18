@@ -9,6 +9,10 @@ li:hover{
     cursor:pointer;
 }
 
+.fa-pencil-alt{
+    float: right;
+}
+
 .completed{
     color: gray;
     text-decoration: line-through;
