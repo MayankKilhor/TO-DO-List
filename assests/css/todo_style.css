@@ -43,6 +43,10 @@ input{
     box-sizing: border-box;
 }
 
+span{
+    background: #e74c3c;
+}
+
 input:focus{
     background-color: #fff;
     border: 3px solid #2980b9;
