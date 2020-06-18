@@ -49,6 +49,7 @@ span{
     margin-right: 20px;
     text-align: center;
     color: white;
+    display: inline-block;
 }
 
 input:focus{
